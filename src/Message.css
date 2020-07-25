@@ -1,0 +1,22 @@
+.message_card{
+    padding: 10px;
+    margin: 10px; 
+    width: fit-content;
+}
+
+.message_sender{
+    margin-left: auto;
+    /* color: "white"; */
+    text-align: left;
+    /* margin: 10px;  */
+    width: fit-content;
+    background-color: lightseagreen;
+}
+
+/* .message_sender{
+    
+} */
+
+.message_receiver{
+    background-color:lightyellow;
+}
