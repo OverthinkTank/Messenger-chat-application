@@ -1,16 +1,25 @@
+.message{
+    /* padding: 10px; */
+    margin: 10px;
+    width: fit-content;
+    text-overflow: ellipsis;
+}
+
+
+
 .message_card{
-    padding: 10px;
+    /* padding: 10px; */
     margin: 10px; 
     width: fit-content;
+    box-sizing: border-box;
 }
 
 .message_sender{
     margin-left: auto;
-    /* color: "white"; */
     text-align: left;
-    /* margin: 10px;  */
     width: fit-content;
-    background-color: lightseagreen;
+    background-color: #0084FF !important;
+    color: #fff
 }
 
 /* .message_sender{
@@ -18,5 +27,5 @@
 } */
 
 .message_receiver{
-    background-color:lightyellow;
+    background-color: #f1f0f0 !important;
 }
