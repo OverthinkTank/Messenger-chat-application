@@ -1,2 +1,3 @@
 # fb-messenger-clone
-Full Stack fb-messenger clone using React and Firebase.
+Full Stack application with React and Firebase  
+**Project Link: (https://fb-messenger-9e08f.web.app/ )**
